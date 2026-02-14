@@ -134,3 +134,6 @@ Testes isolados com Mockito
 Testes de integração com contexto real
 
 Código organizado e de fácil manutenção
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc48c13c-cb24-4b6b-9c92-30d00de5713e" />
+
