@@ -1,4 +1,5 @@
 Prática QA – API com Aplicação de Plano de Testes
+
 📖 Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de uma API REST utilizando Java + Spring Boot, com foco na aplicação prática de um Plano de Testes estruturado, validando funcionalidades, regras de negócio e tratamento de exceções.
@@ -23,21 +24,21 @@ Aplicar um plano de testes completo em uma API de cadastro de usuários, garanti
 
 🛠️ Tecnologias Utilizadas
 
-Java 17+
+- Java 17+
 
-Spring Boot
+- Spring Boot
 
-Spring Data JPA
+- Spring Data JPA
 
-Maven
+- Maven
 
-JUnit 5
+- JUnit 5
 
-Mockito
+- Mockito
 
-MySQL
+- MySQL
 
-Postman (para testes manuais)
+- Postman (para testes manuais)
 
 🏗️ Estrutura do Projeto
 src/
@@ -52,6 +53,7 @@ src/
      └── integration
 
 🔎 Funcionalidades Implementadas
+
 👤 Usuário
 
 Cadastro de usuário
@@ -61,6 +63,7 @@ Validação de campos obrigatórios
 Validação de e-mail único
 
 Tratamento de erros personalizados
+
 
 🧪 Plano de Testes Aplicado
 
